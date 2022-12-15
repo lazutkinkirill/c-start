@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.AssemblyInfo.cs
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/c-start/1234/firstproject/bin/Debug/net6.0/firstproject
+/Users/user/Documents/GitHub/c-start/1234/firstproject/bin/Debug/net6.0/firstproject.deps.json
+/Users/user/Documents/GitHub/c-start/1234/firstproject/bin/Debug/net6.0/firstproject.runtimeconfig.json
+/Users/user/Documents/GitHub/c-start/1234/firstproject/bin/Debug/net6.0/firstproject.dll
+/Users/user/Documents/GitHub/c-start/1234/firstproject/bin/Debug/net6.0/firstproject.pdb
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.dll
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/refint/firstproject.dll
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.pdb
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/firstproject.genruntimeconfig.cache
+/Users/user/Documents/GitHub/c-start/1234/firstproject/obj/Debug/net6.0/ref/firstproject.dll
