@@ -1,0 +1,15 @@
+/Users/user/Documents/GitHub/c-start/1234/secondproject/bin/Debug/net6.0/secondproject
+/Users/user/Documents/GitHub/c-start/1234/secondproject/bin/Debug/net6.0/secondproject.deps.json
+/Users/user/Documents/GitHub/c-start/1234/secondproject/bin/Debug/net6.0/secondproject.runtimeconfig.json
+/Users/user/Documents/GitHub/c-start/1234/secondproject/bin/Debug/net6.0/secondproject.dll
+/Users/user/Documents/GitHub/c-start/1234/secondproject/bin/Debug/net6.0/secondproject.pdb
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.csproj.AssemblyReference.cache
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.AssemblyInfoInputs.cache
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.AssemblyInfo.cs
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.csproj.CoreCompileInputs.cache
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.dll
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/refint/secondproject.dll
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.pdb
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/secondproject.genruntimeconfig.cache
+/Users/user/Documents/GitHub/c-start/1234/secondproject/obj/Debug/net6.0/ref/secondproject.dll
